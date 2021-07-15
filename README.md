@@ -1,1 +1,1 @@
-ビュー : https://mtp0881.github.io/practiveTable1/
+ビュー : https://mtp0881.github.io/practiveTable/
